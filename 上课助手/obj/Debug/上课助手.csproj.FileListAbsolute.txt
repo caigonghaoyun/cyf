@@ -1,0 +1,10 @@
+C:\Users\catingka\source\repos\上课助手\上课助手\bin\Debug\上课助手.exe.config
+C:\Users\catingka\source\repos\上课助手\上课助手\bin\Debug\上课助手.exe
+C:\Users\catingka\source\repos\上课助手\上课助手\bin\Debug\上课助手.pdb
+C:\Users\catingka\source\repos\上课助手\上课助手\obj\Debug\上课助手.csprojAssemblyReference.cache
+C:\Users\catingka\source\repos\上课助手\上课助手\obj\Debug\上课助手.Form1.resources
+C:\Users\catingka\source\repos\上课助手\上课助手\obj\Debug\上课助手.Properties.Resources.resources
+C:\Users\catingka\source\repos\上课助手\上课助手\obj\Debug\上课助手.csproj.GenerateResource.cache
+C:\Users\catingka\source\repos\上课助手\上课助手\obj\Debug\上课助手.csproj.CoreCompileInputs.cache
+C:\Users\catingka\source\repos\上课助手\上课助手\obj\Debug\上课助手.exe
+C:\Users\catingka\source\repos\上课助手\上课助手\obj\Debug\上课助手.pdb
